@@ -3355,7 +3355,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1304
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=560
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-name="Go Traveler 4" tvg-logo="https://i.imgur.com/pzDE0qH.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Go Traveler 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=689
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c" tvg-name="GoUSA TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png" group-title="DOCUMENTÁRIOS EM INGLÊS",GoUSA TV
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c" tvg-name="Journy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png" group-title="DOCUMENTÁRIOS EM INGLÊS",GoUSA TV
 https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Guinness World Records" tvg-logo="https://i.imgur.com/ZPA2yTM.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Guinness World Records
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=567
