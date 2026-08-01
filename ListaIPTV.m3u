@@ -2077,7 +2077,7 @@ http://186.219.52.187:80/woohoo/index.m3u8
 http://45.162.64.114/WOOHOO/index.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-name="WooHoo (720p)" tvg-logo="" group-title="BRAZIL",WooHoo (720p)
 http://45.190.28.50/WOOHOO/index.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGWorld Poker Tour" tvg-name="World Poker Tour" tvg-logo="" group-title="BRAZIL",World Poker Tour
+#EXTINF:-1 tvg-id="USBD1700009P5" tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700009P5_20250602T231543SQUARE.png" group-title="BRAZIL",World Poker Tour
 https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WTJ TV | MG Brasil" tvg-logo="https://zettafibra.com.br/wp-content/uploads/2021/06/tvwtjminas.png" group-title="BRAZIL",WTJ TV | MG Brasil
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
@@ -2493,13 +2493,13 @@ https://0b4227d4da7e4ba4aa9d980f532fdc86.mediatailor.us-west-2.amazonaws.com/v1/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1501
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61d738b5a7b7c7f703418514" tvg-name="Trailers From Hell" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Trailers From Hell
 https://558967c5c32141fe8f01c37d315e43a3.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TrailersFromHell/playlist.m3u8?ads.wurl_channel=1048&ads.wurl_name=TrailersFromHell&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y_HMAMzw1oNcdLetH1FS&ads.plex_id=61d738b5a7b7c7f703418514&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 tvg-id="dtv_EPGUs Weekly TV" tvg-name="US Weekly TV" tvg-logo="" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",US Weekly | Distro TV
+#EXTINF:-1 tvg-id="dtv_EPGUs Weekly TV" tvg-name="US Weekly | Distro TV" tvg-logo="https://i.imgur.com/E08VIuX.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",US Weekly | Distro TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/us-weekly-tv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vanity Fair" tvg-logo="https://i.imgur.com/7zAPJT0.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Vanity Fair
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vanity Fair 2" tvg-logo="https://i.imgur.com/7zAPJT0.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Vanity Fair 2
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/a249be578217437d/9991741/master.m3u8?ads.caid=VanityFair&ads.csid=zeus_eu_condenastvanityfair_ssai&ads._fw_content_category=IAB1-2&ads._fw_content_genre=popculture&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads.xumo_contentId=36&ads.xumo_contentName=CondeNastVanityFair&ads.xumo_providerId=36&ads.xumo_providerName=CondeNastVanityFair&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2967&ads.rakuten_streaming_id=7bc20975-2f62-4359-958d-922b28cbe371&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991741&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid
-#EXTINF:-1 tvg-id="dtv_EPGYoung Hollywood" tvg-name="Young Hollywood" tvg-logo="" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Young Hollywood | Distro TV
+#EXTINF:-1 tvg-id="dtv_EPGYoung Hollywood" tvg-name="Young Hollywood | Distro TV" tvg-logo="https://i.imgur.com/9dp92Cf.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Young Hollywood | Distro TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/young-hollywood/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Young Hollywood" tvg-logo="https://i.imgur.com/9dp92Cf.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Young Hollywood | Rakuten
 https://younghollywood-rakuten.amagi.tv/playlist.m3u8
@@ -2631,7 +2631,7 @@ https://shortstv-fast-spain-lg.amagi.tv/playlist.m3u8
 http://linear-354.frequency.stream/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6323ac0f8f253768c26b5529" tvg-name="Flou Cine | Distro TV" tvg-logo="https://i.imgur.com/7mAVs5D.png" group-title="CINEMA EM ESPANHOL",Flou Cine | Distro TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucinedistro-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGHorrorfy" tvg-name="Horrorfy" tvg-logo="" group-title="CINEMA EM ESPANHOL",Horrorfy
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-name="Horrorfy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fe3c7159-2d42-47c3-a112-2c0cd847e4ef/horrorfy_logo.png" group-title="CINEMA EM ESPANHOL",Horrorfy
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-To
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-602d6608f867c4002c897e27" tvg-name="La Corriente" tvg-logo="https://i.imgur.com/K4pTxtQ.png" group-title="CINEMA EM ESPANHOL",La Corriente
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=499
@@ -2653,7 +2653,7 @@ https://ammo-espanol-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-ammo-espanol-ple
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" tvg-name="FreeTV Acción" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8b31c27f-b26e-475d-bec6-a7d452260f56/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png" group-title="CINEMA EM ESPANHOL",Top Cine
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGTu Cine" tvg-name="Tu Cine" tvg-logo="" group-title="CINEMA EM ESPANHOL",Tu Cine
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-608b7095a09205002da4f293" tvg-name="Tu Cine" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tucine_logo_light.png" group-title="CINEMA EM ESPANHOL",Tu Cine
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="ViendoMovies.us" tvg-name="Viendo Movies" tvg-logo="https://i.imgur.com/YjyJAo2.png" group-title="CINEMA EM ESPANHOL",Viendo Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1125
@@ -2671,7 +2671,7 @@ https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
 #EXTINF:-1 tvg-id="FRBA3300021ME" tvg-name="Wild Side TV | França" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/FRBA3300021ME_20210714T000816.png" group-title="CINEMA EM FRANCÊS",Wild Side TV | França
 https://dba2f9e98eb44a478946116c5e90e55b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_WildSideTV/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPG24 Hour Free Movies" tvg-name="24 Hour Free Movies" tvg-logo="" group-title="CINEMA EM INGLÊS",24 Hour Free Movies
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d" tvg-name="24 Hour Free Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="CINEMA EM INGLÊS",24 Hour Free Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1356
 #EXTINF:-1 tvg-id="" tvg-name="A+ Cinema | legendados em inglês" tvg-logo="https://i.imgur.com/7R5IVv5.png" group-title="CINEMA EM INGLÊS",A+ Cinema | legendados em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1525
@@ -2693,13 +2693,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=178
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=205
 #EXTINF:-1 tvg-id="USAK3508704A" tvg-name="Canela TV em inglês" tvg-logo="https://i.imgur.com/1qxm6bz.png" group-title="CINEMA EM INGLÊS",Canela TV em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=148
-#EXTINF:-1 tvg-id="dtv_EPGChristmas Classics" tvg-name="Christmas Classics" tvg-logo="" group-title="CINEMA EM INGLÊS",Christmas Classics
+#EXTINF:-1 tvg-id="dtv_EPGChristmas Classics" tvg-name="Christmas Classics" tvg-logo="https://i.imgur.com/IzRBrWA.png" group-title="CINEMA EM INGLÊS",Christmas Classics
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=440
-#EXTINF:-1 tvg-id="dtv_EPGChristmas Classics" tvg-name="Christmas Classics" tvg-logo="" group-title="CINEMA EM INGLÊS",Christmas Classics 2
+#EXTINF:-1 tvg-id="dtv_EPGChristmas Classics" tvg-name="Christmas Classics 2" tvg-logo="https://i.imgur.com/IzRBrWA.png" group-title="CINEMA EM INGLÊS",Christmas Classics 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=441
-#EXTINF:-1 tvg-id="dtv_EPGChristmas Classics" tvg-name="Christmas Classics" tvg-logo="" group-title="CINEMA EM INGLÊS",Christmas Classics 3
+#EXTINF:-1 tvg-id="dtv_EPGChristmas Classics" tvg-name="Christmas Classics 3" tvg-logo="https://i.imgur.com/IzRBrWA.png" group-title="CINEMA EM INGLÊS",Christmas Classics 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1679
-#EXTINF:-1 tvg-id="dtv_EPGChristmas Classics" tvg-name="Christmas Classics" tvg-logo="" group-title="CINEMA EM INGLÊS",Christmas Classics | Local Now
+#EXTINF:-1 tvg-id="dtv_EPGChristmas Classics" tvg-name="Christmas Classics | Local Now" tvg-logo="https://i.imgur.com/IzRBrWA.png" group-title="CINEMA EM INGLÊS",Christmas Classics | Local Now
 https://christmasclassics-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61b8bdd7b84034600d75af0e_christmasclassics-live/master.m3u8?channel=ottpri_sl_cc
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a9d104d162b9002d05a60a" tvg-name="Cinehouse | Plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Cinehouse_logo_dark.png" group-title="CINEMA EM INGLÊS",Cinehouse | Plex
 https://3e14f4fda10247bc907cf85bbf6f6d88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Cinehouse/playlist.m3u8
@@ -2753,9 +2753,9 @@ https://simultv.s.llnwi.net/n4s4/Atari/Dime/interlink.m3u8
 https://2953c6ed7ab54067823fe467ad9ed80f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_DiscoverFilm/playlist.m3u8?ads.wurl_channel=1009&ads.wurl_name=DiscoverFilm&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y_HMAMzw1oNcdLetH1FS&ads.plex_id=618198fe4e1b6764011b046a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 tvg-id="localnow_All The Drama" tvg-name="Drama | Local Now" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/608a0e28a918527ee77eabe8" group-title="CINEMA EM INGLÊS",Drama | Local Now
 https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGDread TV" tvg-name="DreadTV" tvg-logo="" group-title="CINEMA EM INGLÊS",Dread TV
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec" tvg-name="DREAD TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eea34042-e7d4-4059-badc-bd8113e1b037/Dread-White-_-Black-1500x1000.png" group-title="CINEMA EM INGLÊS",Dread TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2566
-#EXTINF:-1 tvg-id="dtv_EPGDread TV" tvg-name="DreadTV" tvg-logo="" group-title="CINEMA EM INGLÊS",Dread TV | horror movies
+#EXTINF:-1 tvg-id="dtv_EPGDread TV" tvg-name="Dread TV | horror movies" tvg-logo="https://i.imgur.com/Y3ukwoM.png" group-title="CINEMA EM INGLÊS",Dread TV | horror movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1415
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" tvg-name="Electric Now | EUA" tvg-logo="https://i.imgur.com/ejyvmON.png" group-title="CINEMA EM INGLÊS",Electric Now | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
@@ -2839,7 +2839,7 @@ https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30" tvg-name="Hi-YAH! | Xumo" tvg-logo="https://i.imgur.com/Bq0AGTk.png" group-title="CINEMA EM INGLÊS",Hi-YAH! | Xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGHorror Machine" tvg-name="Horror Machine" tvg-logo="" group-title="CINEMA EM INGLÊS",Horror Machine | Local Now
+#EXTINF:-1 tvg-id="dtv_EPGHorror Machine" tvg-name="Horror Machine | Local Now" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d16ea10396351a3042dd3/" group-title="CINEMA EM INGLÊS",Horror Machine | Local Now
 https://dai.google.com/linear/hls/event/b102wvjXSLGQWwRTT-QaaA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Horror Machine | Local Now" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d16ea10396351a3042dd3/" group-title="CINEMA EM INGLÊS",Horror Machine | Local Now
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
@@ -3377,13 +3377,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1113
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1115
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" tvg-name="ACCDN | EUA" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/accdn-logo.png" group-title="ESPORTES EM INGLÊS",ACCDN | EUA
 https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGACL Cornhole TV" tvg-name="ACL Cornhole TV" tvg-logo="" group-title="ESPORTES EM INGLÊS",ACL Cornhole TV
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-63504925a97bd70eaef54f01" tvg-name="ACL Cornhole TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png" group-title="ESPORTES EM INGLÊS",ACL Cornhole TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1289
 #EXTINF:-1 tvg-id="" tvg-name="ACL Cornhole TV | link 2" tvg-logo="https://i.imgur.com/VRtaxAp.png" group-title="ESPORTES EM INGLÊS",ACL Cornhole TV | link 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1998
 #EXTINF:-1 tvg-id="" tvg-name="Arena Games Triathlon" tvg-logo="https://i.imgur.com/bnJQE2V.png" group-title="ESPORTES EM INGLÊS",Arena Games Triathlon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142
-#EXTINF:-1 tvg-id="dtv_EPGBilliard TV" tvg-name="Billiard TV" tvg-logo="" group-title="ESPORTES EM INGLÊS",Billiard TV
+#EXTINF:-1 tvg-id="USBD12000183X" tvg-name="Billiard TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000183X_20250428T223415SQUARE.png" group-title="ESPORTES EM INGLÊS",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Billiard TV 2" tvg-logo="https://i.imgur.com/7B4AahB.png" group-title="ESPORTES EM INGLÊS",Billiard TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2538
@@ -3439,9 +3439,9 @@ https://6662c4e5ecf14e23b198830de4e1ddb7.mediatailor.us-east-1.amazonaws.com/v1/
 https://d110dc9d81454a31a0587f6853a818c6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_FuelTV/playlist.m3u8
 #EXTINF:-1 tvg-id="INBA5100026CZ" tvg-name="Fuel TV | Índia" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/INBA5100026CZ_20210428T035932.png" group-title="ESPORTES EM INGLÊS",Fuel TV | Índia
 https://7595cfbb77bb4ec992f8a6ad586ca6e7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FuelTV/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGHavoc" tvg-name="Havoc" tvg-logo="" group-title="ESPORTES EM INGLÊS",Havoc TV
+#EXTINF:-1 tvg-id="dtv_EPGHavoc" tvg-name="Havoc TV" tvg-logo="https://i.imgur.com/EAm9evS.png" group-title="ESPORTES EM INGLÊS",Havoc TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2559
-#EXTINF:-1 tvg-id="dtv_EPGHavoc" tvg-name="Havoc" tvg-logo="" group-title="ESPORTES EM INGLÊS",Havoc TV 2
+#EXTINF:-1 tvg-id="dtv_EPGHavoc" tvg-name="Havoc TV 2" tvg-logo="https://i.imgur.com/EAm9evS.png" group-title="ESPORTES EM INGLÊS",Havoc TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1434
 #EXTINF:-1 tvg-id="ATBA3300030EZ" tvg-name="Horse and Country | Austrália" tvg-logo="https://i.imgur.com/iVRlKNH.png" group-title="ESPORTES EM INGLÊS",Horse and Country | Austrália
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
@@ -3455,7 +3455,7 @@ https://streamcdn.lamuscle.com/lamtv-origin/smil:monsterworkout-tricepspt1.smil/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2000
 #EXTINF:-1 tvg-id="" tvg-name="Lift Ticket" tvg-logo="https://i.imgur.com/MzDEzXA.png" group-title="ESPORTES EM INGLÊS",Lift Ticket
 http://linear-265.frequency.stream/265/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DUMMYLSN" tvg-name="LSN" tvg-logo="" group-title="ESPORTES EM INGLÊS",LSN
+#EXTINF:-1 tvg-id="" tvg-name="LSN" tvg-logo="https://i.imgur.com/Tuwpis1.png" group-title="ESPORTES EM INGLÊS",LSN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=842
 #EXTINF:-1 tvg-id="" tvg-name="LSN 2" tvg-logo="https://i.imgur.com/Tuwpis1.png" group-title="ESPORTES EM INGLÊS",LSN 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1132
@@ -3495,9 +3495,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1367
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Racing 2 | Reino Unido" tvg-logo="https://i.imgur.com/7MkX0Ct.png" group-title="ESPORTES EM INGLÊS",Sky Racing 2 | Reino Unido
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1 tvg-id="DUMMYSlopesTV" tvg-name="Slopes TV" tvg-logo="" group-title="ESPORTES EM INGLÊS",Slopes | Galxy TV 2
+#EXTINF:-1 tvg-id="DUMMYSlopesTV" tvg-name="Slopes | Galxy TV 2" tvg-logo="https://i.imgur.com/96KsJdS.png" group-title="ESPORTES EM INGLÊS",Slopes | Galxy TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2585
-#EXTINF:-1 tvg-id="DUMMYSlopesTV" tvg-name="Slopes TV" tvg-logo="" group-title="ESPORTES EM INGLÊS",Slopes | Galxy TV 3
+#EXTINF:-1 tvg-id="DUMMYSlopesTV" tvg-name="Slopes | Galxy TV 3" tvg-logo="https://i.imgur.com/96KsJdS.png" group-title="ESPORTES EM INGLÊS",Slopes | Galxy TV 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2596
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-619bffbfb9d380b2df7296ce" tvg-name="Spartan TV" tvg-logo="" group-title="ESPORTES EM INGLÊS",Spartan TV
 https://spartantv-lg.amagi.tv/playlist.m3u8
@@ -3531,7 +3531,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=605
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=869
 #EXTINF:-1 tvg-id="" tvg-name="World Billiards TV 3" tvg-logo="https://i.imgur.com/D20gKxq.png" group-title="ESPORTES EM INGLÊS",World Billiards TV 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=874
-#EXTINF:-1 tvg-id="dtv_EPGWorld Poker Tour" tvg-name="World Poker Tour" tvg-logo="" group-title="ESPORTES EM INGLÊS",World Poker Tour
+#EXTINF:-1 tvg-id="USBD1700009P5" tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700009P5_20250602T231543SQUARE.png" group-title="ESPORTES EM INGLÊS",World Poker Tour
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1346
 #EXTINF:-1 tvg-id="" tvg-name="XCorps" tvg-logo="https://i.imgur.com/gpIkv0C.png" group-title="ESPORTES EM INGLÊS",XCorps
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1540
@@ -3593,7 +3593,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=734
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=735
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-name="NHRA TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",NHRA Championship Drag Racing 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2010
-#EXTINF:-1 tvg-id="DUMMYVolty" tvg-name="Volty" tvg-logo="" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Volty
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6e3" tvg-name="Volty" tvg-logo="https://i.imgur.com/S79UMef.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Volty
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=865
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6e3" tvg-name="Volty 2" tvg-logo="https://i.imgur.com/S79UMef.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Volty 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=896
@@ -3617,7 +3617,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1760
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1782
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-name="Black Belt 7" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="ESPORTES EM INGLÊS: LUTAS",Black Belt 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=749
-#EXTINF:-1 tvg-id="dtv_EPGChannel Fight" tvg-name="Channel Fight" tvg-logo="" group-title="ESPORTES EM INGLÊS: LUTAS",Channel Fight
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-name="Channel Fight" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="ESPORTES EM INGLÊS: LUTAS",Channel Fight
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-name="Channel Fight 2" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="ESPORTES EM INGLÊS: LUTAS",Channel Fight 2
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=113
@@ -3687,9 +3687,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=509
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
 #EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-name="TNA Wrestling" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG_1784129596431.png" group-title="ESPORTES EM INGLÊS: LUTAS",Impact Wrestling | EUA 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=828
-#EXTINF:-1 tvg-id="dtv_EPGMMA Junkie" tvg-name="MMA Junkie" tvg-logo="" group-title="ESPORTES EM INGLÊS: LUTAS",MMA Junkie
+#EXTINF:-1 tvg-id="DistroTV_MMA Junkie" tvg-name="MMA Junkie" tvg-logo="https://i.imgur.com/AKZVQCV.png" group-title="ESPORTES EM INGLÊS: LUTAS",MMA Junkie
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGMMA Junkie" tvg-name="MMA Junkie" tvg-logo="" group-title="ESPORTES EM INGLÊS: LUTAS",MMA Junkie
+#EXTINF:-1 tvg-id="DistroTV_MMA Junkie" tvg-name="MMA Junkie" tvg-logo="https://i.imgur.com/AKZVQCV.png" group-title="ESPORTES EM INGLÊS: LUTAS",MMA Junkie
 https://dai.google.com/linear/hls/event/Ojv7wZDbT4G7utyqbdcXUA/master.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-name="MMA TV" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="ESPORTES EM INGLÊS: LUTAS",MMA TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=802
@@ -3801,7 +3801,7 @@ https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 https://www.youtube.com/c/CNBC/live
 #EXTINF:-1 tvg-id="GBBD8000016N" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20260714T040523SQUARE.png" group-title="ESTADOS UNIDOS",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGDocurama" tvg-name="Docurama" tvg-logo="" group-title="ESTADOS UNIDOS",Docurama
+#EXTINF:-1 tvg-id="Docurama.us" tvg-name="Docurama" tvg-logo="https://i.imgur.com/bNg8mze.png" group-title="ESTADOS UNIDOS",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 tvg-id="DryBarComedy.us" tvg-name="Drybar Comedy" tvg-logo="https://i.imgur.com/EldlmTp.png" group-title="ESTADOS UNIDOS",Drybar Comedy
 https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
@@ -3821,7 +3821,7 @@ https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/61839
 https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RevnTV.us" tvg-name="Rev'n" tvg-logo="https://i.imgur.com/VUhqVgG.png" group-title="ESTADOS UNIDOS",Rev'n
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="DUMMYstadium" tvg-name="Stadium" tvg-logo="" group-title="ESTADOS UNIDOS",Stadium
+#EXTINF:-1 tvg-id="USAJ3504705A" tvg-name="Stadium" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504705A_20260421T142959SQUARE.png" group-title="ESTADOS UNIDOS",Stadium
 https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8
 #EXTINF:-1 tvg-id="ETV.ee" tvg-name="ETV Ⓖ" tvg-logo="https://i.imgur.com/5URjPgG.png" group-title="ESTONIA",ETV Ⓖ
 http://sb.err.ee/live/etv.m3u8
@@ -3957,7 +3957,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-id="IT18000033C" tvg-name="TV5 Monde Info" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT18000033C_20251013T054515SQUARE.png" group-title="FRANCE",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGBuzzr" tvg-name="Buzzr" tvg-logo="" group-title="GAME SHOWS EM INGLÊS",Buzzr
+#EXTINF:-1 tvg-id="USBD700021WG" tvg-name="BUZZR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700021WG_20260609T035129SQUARE.png" group-title="GAME SHOWS EM INGLÊS",Buzzr
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1023
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-name="Buzzr | Samsung EUA" tvg-logo="http://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="GAME SHOWS EM INGLÊS",Buzzr | Samsung EUA
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
@@ -4575,7 +4575,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://d3afonbm0qxmbc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-elbbbj7vf6xsf-prod/est.m3u8
 #EXTINF:-1 tvg-id="KETCDT2.us" tvg-name="PBS Kids | USA" tvg-logo="https://i.imgur.com/uepDxAh.png" group-title="INFANTIS EM INGLÊS",PBS Kids | USA
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8?CatOTA21117&NationalWebstream
-#EXTINF:-1 tvg-id="dtv_EPGPet Cult" tvg-name="Pet Cult" tvg-logo="" group-title="INFANTIS EM INGLÊS",Pet Cult
+#EXTINF:-1 tvg-id="" tvg-name="Pet Cult" tvg-logo="https://i.imgur.com/itWTXQF.png" group-title="INFANTIS EM INGLÊS",Pet Cult
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2521
 #EXTINF:-1 tvg-id="" tvg-name="Pinkfong Baby Shark | EUA" tvg-logo="https://i.imgur.com/1MGJg18.jpg" group-title="INFANTIS EM INGLÊS",Pinkfong Baby Shark | EUA
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
@@ -5817,11 +5817,11 @@ https://play.radiorivendell.com/radio/8000/radio.mp3
 https://guri.tepuyserver.net/8110/stream
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-name="Stingray 80s ~ Remember The 80s" tvg-logo="https://i.imgur.com/evwnpzg.png" group-title="MÚSICA",Stingray 80s ~ Remember The 80s
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1387
-#EXTINF:-1 tvg-id="dtv_EPGClassic Rock" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="MÚSICA",Stingray Classic Rock
+#EXTINF:-1 tvg-id="USBD35000180U" tvg-name="Stingray Classic Rock" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20250630T232430SQUARE.png" group-title="MÚSICA",Stingray Classic Rock
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389
-#EXTINF:-1 tvg-id="dtv_EPGGreatest Hits" tvg-name="Stingray Greatest Hits" tvg-logo="" group-title="MÚSICA",Stingray Greatest Hits
+#EXTINF:-1 tvg-id="USBD3500022DN" tvg-name="Stingray Greatest Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20251230T035623SQUARE.png" group-title="MÚSICA",Stingray Greatest Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385
-#EXTINF:-1 tvg-id="dtv_EPGHit List" tvg-name="Stingray Hit List" tvg-logo="" group-title="MÚSICA",Stingray Hit List
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-name="Stingray Hit List" tvg-logo="https://i.imgur.com/2GXzMx8.png" group-title="MÚSICA",Stingray Hit List
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388
 #EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-name="Stingray Hot Country | Canadá" tvg-logo="https://i.imgur.com/hgTlysA.png" group-title="MÚSICA",Stingray Hot Country | Canadá
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2704
@@ -5863,7 +5863,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ce7c5fb8-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="ATAJ0500413A" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500413A_20250107T021622SQUARE.png" group-title="MÚSICA INSTRUMENTAL E SOM AMBIENTE",Deluxe Lounge HD | Áustria
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a54049ad-66da-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=AT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="dtv_EPGFireplace Lounge" tvg-name="Fireplace Lounge" tvg-logo="" group-title="MÚSICA INSTRUMENTAL E SOM AMBIENTE",Drone TV
+#EXTINF:-1 tvg-id="dtv_EPGFireplace Lounge" tvg-name="Drone TV" tvg-logo="https://i.imgur.com/fDV10iU.png" group-title="MÚSICA INSTRUMENTAL E SOM AMBIENTE",Drone TV
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-name="Naturescape" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="MÚSICA INSTRUMENTAL E SOM AMBIENTE",Naturescape by Stingray
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
@@ -5995,7 +5995,7 @@ https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
 https://www.youtube.com/tvcnewsnigeria/live
 #EXTINF:-1 tvg-id="USBB1500001GD" tvg-name="USA Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1500001GD_20250325T020255SQUARE.png" group-title="NEWS",USA Today
 https://lnc-usa-today.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="DUMMYWION" tvg-name="WION" tvg-logo="" group-title="NEWS",WION
+#EXTINF:-1 tvg-id="INBD4000058T" tvg-name="WION" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000058T_20260623T013446SQUARE.png" group-title="NEWS",WION
 https://ythls.armelin.one/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
 #EXTINF:-1 tvg-id="AlArabiya.ae" tvg-name="Al Arabiya العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/640px-Al-Arabiya_new_logo.svg.png" group-title="NEWS (AR)",Al Arabiya العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -6253,7 +6253,7 @@ https://brat-samsung-us.amagi.tv/playlist.m3u8
 https://crackle-chickensoupforthesoul-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61a94815f6575693e6392561" tvg-name="Chicken Soup For The Soul | Plex" tvg-logo="https://i.imgur.com/oH1Jkg6.png" group-title="NOVELAS E SÉRIES EM INGLÊS",Chicken Soup For The Soul | Plex
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=ozAKtoCFFGXy8zeWWsRA&channelId=61a94815f6575693e6392561
-#EXTINF:-1 tvg-id="dtv_EPGClassic Reruns TV" tvg-name="Classic Reruns TV" tvg-logo="" group-title="NOVELAS E SÉRIES EM INGLÊS",Classic Reruns TV
+#EXTINF:-1 tvg-id="" tvg-name="Classic Reruns TV" tvg-logo="https://i.imgur.com/Qcst1TL.png" group-title="NOVELAS E SÉRIES EM INGLÊS",Classic Reruns TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1097
 #EXTINF:-1 tvg-id="" tvg-name="Classic Reruns TV 2" tvg-logo="https://i.imgur.com/Qcst1TL.png" group-title="NOVELAS E SÉRIES EM INGLÊS",Classic Reruns TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1437
@@ -6281,15 +6281,15 @@ https://cu.onliv3.com/livevd/user1.m3u8
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-name="Top Latino TV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fTmfsKeREm.png" group-title="PERU",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGFido TV" tvg-name="Fido TV" tvg-logo="" group-title="PETS EM INGLÊS",Fido TV
+#EXTINF:-1 tvg-id="dtv_EPGFido TV" tvg-name="Fido TV" tvg-logo="https://i.imgur.com/1hWsvsw.png" group-title="PETS EM INGLÊS",Fido TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=841
 #EXTINF:-1 tvg-id="KlowdTV_EPGFido TV" tvg-name="Fido TV | Klowd" tvg-logo="https://i.imgur.com/1hWsvsw.png" group-title="PETS EM INGLÊS",Fido TV | Klowd
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/fido_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGFido TV" tvg-name="Fido TV" tvg-logo="" group-title="PETS EM INGLÊS",Fido TV | link 3
+#EXTINF:-1 tvg-id="dtv_EPGFido TV" tvg-name="Fido TV | link 3" tvg-logo="https://i.imgur.com/1hWsvsw.png" group-title="PETS EM INGLÊS",Fido TV | link 3
 https://dai.google.com/linear/hls/event/qd8D8TtbQ-2fFw5-1sZiWQ/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGFido TV" tvg-name="Fido TV" tvg-logo="" group-title="PETS EM INGLÊS",Fido TV | link 4
+#EXTINF:-1 tvg-id="dtv_EPGFido TV" tvg-name="Fido TV | link 4" tvg-logo="https://i.imgur.com/1hWsvsw.png" group-title="PETS EM INGLÊS",Fido TV | link 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2002
-#EXTINF:-1 tvg-id="dtv_EPGFido TV" tvg-name="Fido TV" tvg-logo="" group-title="PETS EM INGLÊS",Fido TV | Local Now
+#EXTINF:-1 tvg-id="dtv_EPGFido TV" tvg-name="Fido TV | Local Now" tvg-logo="https://i.imgur.com/1hWsvsw.png" group-title="PETS EM INGLÊS",Fido TV | Local Now
 https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
 #EXTINF:-1 tvg-id="5bb1ad55268cae539bcedb08" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="PETS EM INGLÊS",The Pet Collective
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=773
@@ -6435,7 +6435,7 @@ https://insighttv-samsungau.amagi.tv/playlist.m3u8
 https://insight-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jade Fever | Canadá" tvg-logo="https://i.imgur.com/dwCFfyi.jpg" group-title="REALITY SHOWS EM INGLÊS",Jade Fever | Canadá
 http://linear-246.frequency.stream/246/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGKaloopy" tvg-name="Kaloopy" tvg-logo="" group-title="REALITY SHOWS EM INGLÊS",Kaloopy
+#EXTINF:-1 tvg-id="" tvg-name="Kaloopy" tvg-logo="https://i.imgur.com/3ccFQ22.png" group-title="REALITY SHOWS EM INGLÊS",Kaloopy
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kin | EUA" tvg-logo="https://i.imgur.com/WEgL9i9.png" group-title="REALITY SHOWS EM INGLÊS",Kin | EUA
 http://linear-278.frequency.stream/278/hls/master/playlist.m3u8
@@ -6479,7 +6479,7 @@ https://35f8d561e25c470b974ab6f6b3df22cc.mediatailor.us-east-1.amazonaws.com/v1/
 http://linear-220.frequency.stream/220/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Justice With Judge Mablean" tvg-logo="https://i.imgur.com/OvEgGmh.png" group-title="REALITY SHOWS EM INGLÊS: CRIMES E JULGAMENTOS",Justice With Judge Mablean
 http://linear-221.frequency.stream/221/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGLaw & Crime" tvg-name="Law & Crime" tvg-logo="" group-title="REALITY SHOWS EM INGLÊS: CRIMES E JULGAMENTOS",Law & Crime
+#EXTINF:-1 tvg-id="USAK3508710A" tvg-name="Law & Crime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508710A_20260609T214540SQUARE.png" group-title="REALITY SHOWS EM INGLÊS: CRIMES E JULGAMENTOS",Law & Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=970
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc79d" tvg-name="Law & Crime 2" tvg-logo="https://i.imgur.com/3LBntt0.png" group-title="REALITY SHOWS EM INGLÊS: CRIMES E JULGAMENTOS",Law & Crime 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1011
@@ -6787,7 +6787,7 @@ https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-id="ETB2.es" tvg-name="ETB2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/500px-ETB2_2022_logo.svg.png" group-title="SPAIN",ETB2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGEuronews" tvg-name="Euronews" tvg-logo="" group-title="SPAIN",euronews
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-60089d90f682a3002c348299" tvg-name="Euronews" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d63af64-c260-4f5f-aac1-240aeaa36e90/Plex-WURL_Euronews-Logos_EN_-_astrid_collomb.png" group-title="SPAIN",euronews
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 #EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-name="FDF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png" group-title="SPAIN",FDF
 http://185.189.225.150:85/fdf/index.m3u8
@@ -7591,15 +7591,15 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMG TV | EUA" tvg-logo="https://i.imgur.com/yCVpx60.png" group-title="VARIEDADES EM INGLÊS",AMG TV | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1319
-#EXTINF:-1 tvg-id="DUMMYaweplus" tvg-name="AWE Plus" tvg-logo="" group-title="VARIEDADES EM INGLÊS",AWE Encore | Distro
+#EXTINF:-1 tvg-id="DUMMYaweplus" tvg-name="AWE Encore | Distro" tvg-logo="https://i.imgur.com/nFs8gUI.png" group-title="VARIEDADES EM INGLÊS",AWE Encore | Distro
 https://dai.google.com/linear/hls/event/hefJPxVlTzWqtmz9UpFbwQ/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYaweplus" tvg-name="AWE Plus" tvg-logo="" group-title="VARIEDADES EM INGLÊS",AWE Encore | EUA
+#EXTINF:-1 tvg-id="DUMMYaweplus" tvg-name="AWE Encore | EUA" tvg-logo="https://i.imgur.com/nFs8gUI.png" group-title="VARIEDADES EM INGLÊS",AWE Encore | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=919
-#EXTINF:-1 tvg-id="DUMMYaweplus" tvg-name="AWE Plus" tvg-logo="" group-title="VARIEDADES EM INGLÊS",AWE Encore | Local Now
+#EXTINF:-1 tvg-id="DUMMYaweplus" tvg-name="AWE Encore | Local Now" tvg-logo="https://i.imgur.com/nFs8gUI.png" group-title="VARIEDADES EM INGLÊS",AWE Encore | Local Now
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
-#EXTINF:-1 tvg-id="DUMMYaweplus" tvg-name="AWE Plus" tvg-logo="" group-title="VARIEDADES EM INGLÊS",AWE Encore | TCL
+#EXTINF:-1 tvg-id="DUMMYaweplus" tvg-name="AWE Encore | TCL" tvg-logo="https://i.imgur.com/nFs8gUI.png" group-title="VARIEDADES EM INGLÊS",AWE Encore | TCL
 https://aweencore-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DUMMYaweplus" tvg-name="AWE Plus" tvg-logo="" group-title="VARIEDADES EM INGLÊS",AWE Encore | Vizio
+#EXTINF:-1 tvg-id="DUMMYaweplus" tvg-name="AWE Encore | Vizio" tvg-logo="https://i.imgur.com/nFs8gUI.png" group-title="VARIEDADES EM INGLÊS",AWE Encore | Vizio
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="37eb732888614810b512fdd82604244e" tvg-name="Charge! | EUA" tvg-logo="https://i.imgur.com/0XsYNaC.png" group-title="VARIEDADES EM INGLÊS",Charge! | EUA
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
@@ -7647,7 +7647,7 @@ https://linear-43.frequency.stream/dist/plex/43/hls/master/playlist.m3u8
 https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Revry | link 3" tvg-logo="https://i.imgur.com/Bk1bFX8.png" group-title="VARIEDADES EM INGLÊS",Revry | link 3
 https://dai.google.com/linear/hls/event/utfgO3fURDKz_QIYRvd_Ow/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYRightNowTV" tvg-name="Right Now TV" tvg-logo="" group-title="VARIEDADES EM INGLÊS",Right Now TV
+#EXTINF:-1 tvg-id="KVHFLD2.us" tvg-name="Right Now TV" tvg-logo="https://i.imgur.com/IlGXcrI.png" group-title="VARIEDADES EM INGLÊS",Right Now TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1028
 #EXTINF:-1 tvg-id="" tvg-name="Survivor Net TV" tvg-logo="https://i.imgur.com/iQC3Vpe.png" group-title="VARIEDADES EM INGLÊS",Survivor Net TV
 https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
@@ -8161,7 +8161,7 @@ https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Asylum – Pluto TV" tvg-logo="https://i.imgur.com/S2jlaiJ.png" group-title="VOD ITALY",The Asylum – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8d5369e48940007fc1dc1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="dtv_EPGThe Boat Show" tvg-name="The Boat Show" tvg-logo="" group-title="VOD ITALY",The Boat Show
+#EXTINF:-1 tvg-id="IT18000098G" tvg-name="The Boat Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT18000098G_20260721T040410SQUARE.png" group-title="VOD ITALY",The Boat Show
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Boat Show – Pluto TV" tvg-logo="https://i.imgur.com/aDcwRvj.png" group-title="VOD ITALY",The Boat Show – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb58aa60bc8f0008caa8f8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
