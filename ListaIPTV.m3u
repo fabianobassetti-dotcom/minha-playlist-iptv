@@ -3799,7 +3799,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 tvg-id="DryBarComedy.us" tvg-name="Drybar Comedy" tvg-logo="https://i.imgur.com/EldlmTp.png" group-title="ESTADOS UNIDOS",Drybar Comedy
 https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="USBB2900003O3" tvg-name="Heartland" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20251209T013457SQUARE.png" group-title="ESTADOS UNIDOS",Heartland
+#EXTINF:-1 tvg-id="USBB2900003O3" tvg-name="Heartland" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20260811T043414SQUARE.png" group-title="ESTADOS UNIDOS",Heartland
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="Boni-Records.com.us" tvg-name="Music Channel" tvg-logo="http://media.boni-records.com/logo.png" group-title="ESTADOS UNIDOS",Music Channel
 http://media.boni-records.com/index.m3u8
@@ -8265,7 +8265,7 @@ https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CABC23000223U" tvg-name="The Weather Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000223U_20260421T141242SQUARE.png" group-title="WEATHER",The Weather Network
 https://d3f6rv2ihfj09x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4l4ssesb90374-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/500px-WeatherNation_Logo.svg.png" group-title="WEATHER",WeatherNation
+#EXTINF:-1 tvg-id="USBC1500009LD" tvg-name="WeatherNation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20260421T133617SQUARE.png" group-title="WEATHER",WeatherNation
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1028-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcca8395-396e-4be0-9049-564f29c5ac9b
 #EXTINF:-1 tvg-id="BSTBS.jp" tvg-name="BS-TBS" tvg-logo="https://i.imgur.com/BSt9UG2.png" group-title="日本 / JAPAN",BS-TBS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
