@@ -2532,17 +2532,21 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="13T.cl" tvg-name="13 Teleseries" tvg-logo="https://i.imgur.com/aJMBnse.png" group-title="CHILE",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 horas" tvg-logo="https://i.imgur.com/0rF6Kub.png" group-title="CHILE",24 horas
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+#EXTINF:-1 tvg-id="biobiochile.cl" tvg-name="Bio Bio TV" tvg-logo="https://i.imgur.com/wrRufts.png" group-title="CHILE",Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://i.imgur.com/JIo1HBs.png" group-title="CHILE",Canal 13
-https://sktv-forwarders.7m.pl/get.php?x=Canal13
+https://redirector.dps.live/hls/13cl/playlist.m3u8
 #EXTINF:-1 tvg-id="CHVNoticias.cl" tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="CHILE",Chilevisión Noticias
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="Chilevisión Ⓖ" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="CHILE",Chilevisión Ⓖ
-https://sktv-forwarders.7m.pl/get.php?x=Chilevision
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="D13.cl" tvg-name="Deportes13 Ⓖ" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="CHILE",Deportes13 Ⓖ
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElPinguinoTV.cl" tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" group-title="CHILE",El Pingüino TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="Mega" tvg-logo="https://i.imgur.com/CYdWSDb.png" group-title="CHILE",Mega
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.cl" tvg-name="NTV Ⓖ" tvg-logo="https://i.imgur.com/pt2Kj1A.png" group-title="CHILE",NTV Ⓖ
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #EXTINF:-1 tvg-id="SoloTV.cl" tvg-name="SoloTV" tvg-logo="https://i.imgur.com/Ad2ueID.png" group-title="CHILE",SoloTV
@@ -2556,7 +2560,7 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-name="TVN 3" tvg-logo="https://i.imgur.com/84lWqRi.png" group-title="CHILE",TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN Ⓖ" tvg-logo="https://i.imgur.com/WoN1dai.png" group-title="CHILE",TVN Ⓖ
-https://sktv-forwarders.7m.pl/get.php?x=TVN
+https://iptv2.intersurtv.cl/TVN/index.m3u8
 #EXTINF:-1 tvg-id="UChileTV.cl" tvg-name="UChile TV" tvg-logo="https://i.imgur.com/mF2W8Uh.png" group-title="CHILE",UChile TV
 https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UCL.uy" tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" group-title="CHILE",UCL
@@ -3963,6 +3967,10 @@ https://www.dailymotion.com/video/x2lefik
 https://lcp.fr/le-live-lcp-tnt-5433
 #EXTINF:-1 tvg-id="PublicSenat.fr" tvg-name="Public Sénat" tvg-logo="https://i.imgur.com/bJOdFT1.png" group-title="FRANCE",Public Sénat
 https://www.publicsenat.fr/direct
+#EXTINF:-1 tvg-id="TVAlsace.fr" tvg-name="TV Alsace" tvg-logo="https://i.imgur.com/zaJDEOv.png" group-title="FRANCE",TV Alsace
+http://194.163.157.137:8080/hls/radioalsace.m3u8
+#EXTINF:-1 tvg-id="TVMulhouse.fr" tvg-name="TV Mulhouse" tvg-logo="https://i.imgur.com/4esQG8H.png" group-title="FRANCE",TV Mulhouse
+http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5 Monde Europe" tvg-logo="https://i.imgur.com/uPmwTo9.png" group-title="FRANCE",TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerland.fr" tvg-name="TV5 Monde FBS" tvg-logo="https://i.imgur.com/uPmwTo9.png" group-title="FRANCE",TV5 Monde FBS
@@ -6003,8 +6011,6 @@ https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="NEWS",TRT World
 https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
-#EXTINF:-1 tvg-id="TVCNews.ng" tvg-name="TVC News Ⓨ" tvg-logo="https://i.imgur.com/jaSq18B.png" group-title="NEWS",TVC News Ⓨ
-https://www.youtube.com/tvcnewsnigeria/live
 #EXTINF:-1 tvg-id="USBB1500001GD" tvg-name="USA Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1500001GD_20250325T020255SQUARE.png" group-title="NEWS",USA Today
 https://lnc-usa-today.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="DUMMYWION" tvg-name="WION" tvg-logo="" group-title="NEWS",WION
@@ -6037,6 +6043,30 @@ https://www.youtube.com/c/FRANCE24Espanol/live
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="NEWS (ES)",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="AdvocateBroadcastingNetwork.ng" tvg-name="Advocate Broadcasting Network" tvg-logo="https://i.imgur.com/eZrhTam.png" group-title="NIGERIA",Advocate Broadcasting Network
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelsTV.ng" tvg-name="Channels TV Ⓨ" tvg-logo="https://i.imgur.com/O237VLC.png" group-title="NIGERIA",Channels TV Ⓨ
+https://www.youtube.com/@ChannelsTelevision/live
+#EXTINF:-1 tvg-id="ItageTV.ng" tvg-name="Itage TV" tvg-logo="https://i.imgur.com/ojLIfkt.jpeg" group-title="NIGERIA",Itage TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-name="News Central" tvg-logo="https://i.imgur.com/1oSxhmp.png" group-title="NIGERIA",News Central
+https://wf.newscentral.ng:8443/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RaveTV.ng" tvg-name="Rave TV" tvg-logo="https://i.imgur.com/fDSyf6u.png" group-title="NIGERIA",Rave TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SilverbirdNews24.ng" tvg-name="Silverbird News 24" tvg-logo="https://i.imgur.com/ssEAjq5.jpeg" group-title="NIGERIA",Silverbird News 24
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SoundcityTV.ng" tvg-name="Soundcity TV Ⓨ" tvg-logo="https://i.imgur.com/zfi4SXW.png" group-title="NIGERIA",Soundcity TV Ⓨ
+https://www.youtube.com/channel/UCGuIbAVY4_O-KOQmLkU0IKQ/live
+#EXTINF:-1 tvg-id="SuperscreenTV.ng" tvg-name="Superscreen TV" tvg-logo="https://i.imgur.com/DuhRy48.png" group-title="NIGERIA",Superscreen TV
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCNews.ng" tvg-name="TVC News Ⓨ" tvg-logo="https://i.imgur.com/jaSq18B.png" group-title="NIGERIA",TVC News Ⓨ
+https://www.youtube.com/tvcnewsnigeria/live
+#EXTINF:-1 tvg-id="WaffiTV.ng" tvg-name="Waffi TV" tvg-logo="https://i.imgur.com/ejlCb5g.png" group-title="NIGERIA",Waffi TV
+https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng" tvg-name="Wazobia Max TV Nigeria" tvg-logo="https://i.imgur.com/sEnLR0B.jpeg" group-title="NIGERIA",Wazobia Max TV Nigeria
+https://wazobia.live:8333/channel/wmax.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVPortHarcourt.ng" tvg-name="Wazobia Max TV Port Harcourt" tvg-logo="https://i.imgur.com/sEnLR0B.jpeg" group-title="NIGERIA",Wazobia Max TV Port Harcourt
+https://wazobia.live:8333/channel/wmaxph.m3u8
 #EXTINF:-1 tvg-id="KCTV.kp" tvg-name="KCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/640px-Logo_of_the_Korean_Central_Television.svg.png" group-title="NORTH KOREA",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="CoolTV.mk" tvg-name="Cool TV" tvg-logo="https://i.imgur.com/2tFrjUz.png" group-title="NORTH MACEDONIA",Cool TV
@@ -6347,7 +6377,7 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/RTP_Madeira_2016.png" group-title="PORTUGAL",RTP Madeira Ⓢ
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Mundo" tvg-logo=" height=" group-title="PORTUGAL",RTP Mundo
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/330px-RTP_Mundo.svg.png" group-title="PORTUGAL",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-name="RTP notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="PORTUGAL",RTP notícias
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
@@ -7857,6 +7887,10 @@ https://dgbgs3f3e3nka.cloudfront.net/hls/hanyacoba.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1719
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI | Indonésia" tvg-logo="https://i.imgur.com/tV1Ak8r.png" group-title="VARIEDADES EM VÁRIOS IDIOMAS",TVRI | Indonésia
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1 tvg-id="AguacateTV.ve" tvg-name="Aguacate TV" tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" group-title="VENEZUELA",Aguacate TV
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="AS3SportTV.ve" tvg-name="AS3 Sport TV" tvg-logo="https://intervenhosting.net/imagenes/as3sporttv.jpg" group-title="VENEZUELA",AS3 Sport TV
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png" group-title="VENEZUELA",Globovisión
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 #EXTINF:-1 tvg-id="interTV.ve" tvg-name="inter TV" tvg-logo="https://intervenhosting.net/imagenes/itv.jpg" group-title="VENEZUELA",inter TV
