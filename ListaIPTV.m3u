@@ -4339,6 +4339,12 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 tvg-id="News18.com" tvg-name="News18 India" tvg-logo="https://i.imgur.com/BR4BUAw.png" group-title="INDIA",News18 India Ⓨ
 https://www.youtube.com/@news18india/live
+#EXTINF:-1 tvg-id="News18.com" tvg-name="News18 Kannada" tvg-logo="https://i.imgur.com/CQUGLoK.png" group-title="INDIA",News18 Kannada Ⓨ
+https://www.youtube.com/@News18Kannada/live
+#EXTINF:-1 tvg-id="News18.com" tvg-name="News18 Marathi" tvg-logo="https://i.imgur.com/orxCvCa.png" group-title="INDIA",News18 Marathi Ⓨ
+https://www.youtube.com/@News18Marathi/live
+#EXTINF:-1 tvg-id="News18.com" tvg-name="News18 Telugu" tvg-logo="https://i.imgur.com/NsieorM.jpeg" group-title="INDIA",News18 Telugu Ⓨ
+https://www.youtube.com/@News18Telugu/live
 #EXTINF:-1 tvg-id="News18.com" tvg-name="News18 UP Uttarakhand" tvg-logo="https://i.imgur.com/nKwoe8n.png" group-title="INDIA",News18 UP Uttarakhand Ⓨ
 https://www.youtube.com/@News18UPUttarakhand/live
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" group-title="INDIA",Republic Bharat Ⓨ
@@ -6567,8 +6573,10 @@ http://92.50.128.180/utv/1358/index.m3u8
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" group-title="RUSSIA",Россия 1
 https://player.smotrim.ru/iframe/stream/live_id/2961
-#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Россия-24" tvg-logo="https://i.imgur.com/tpqsFzm.png" group-title="RUSSIA",Россия-24 Ⓢ
-https://player.smotrim.ru/iframe/stream/live_id/21
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Россия-24 (1080p)" tvg-logo="https://i.imgur.com/tpqsFzm.png" group-title="RUSSIA",Россия-24 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Россия-24 (720p)" tvg-logo="https://i.imgur.com/tpqsFzm.png" group-title="RUSSIA",Россия-24 (720p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Россия-Культура" tvg-logo="https://i.imgur.com/S12gaLc.png" group-title="RUSSIA",Россия-Культура Ⓢ
 https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-name="РТР-Планета" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png" group-title="RUSSIA",РТР-Планета Ⓢ
