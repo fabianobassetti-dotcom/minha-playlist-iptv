@@ -2597,6 +2597,12 @@ http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 #EXTINF:-1 tvg-id="CETV4.cn" tvg-name="CETV-4" tvg-logo="https://i.imgur.com/BRe0ybV.png" group-title="CHINA",CETV-4
 http://txycsbl.centv.cn/zb/0822cetv4.m3u8
+#EXTINF:-1 tvg-id="FZTV1.cn" tvg-name="FZTV-1 News 新闻综合频道" tvg-logo="https://i.imgur.com/QvBxGw3.png" group-title="CHINA",FZTV-1 News 新闻综合频道
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 tvg-id="FZTV3.cn" tvg-name="FZTV-3 Lifestyle Channel 生活频道" tvg-logo="https://i.imgur.com/jt7CWDT.png" group-title="CHINA",FZTV-3 Lifestyle Channel 生活频道
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 tvg-id="FZTVkids.cn" tvg-name="FZTV-4 Children 少儿频道" tvg-logo="https://i.imgur.com/J4WtNTX.png" group-title="CHINA",FZTV-4 Children 少儿频道
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-id="TVBRICSChinese.cn" tvg-name="TV BRICS Chinese" tvg-logo="https://i.imgur.com/896132Z.png" group-title="CHINA",TV BRICS Chinese
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Acción Mexicana | Canela TV" tvg-logo="https://i.imgur.com/m9BKIY6.png" group-title="CINEMA EM ESPANHOL",Acción Mexicana | Canela TV
@@ -4307,7 +4313,7 @@ https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ApostolTV.hu" tvg-name="Apostol TV" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" group-title="HUNGARY",Apostol TV
 https://live.apostoltv.hu/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" tvg-logo="https://onlinestream.live/logos/4739.png" group-title="HUNGARY",ATV
+#EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png" group-title="HUNGARY",ATV
 http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="BalatonTV.hu" tvg-name="Balaton TV" tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" group-title="HUNGARY",Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
@@ -4337,15 +4343,13 @@ https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8?key=EWSj2
 #EXTINF:-1 tvg-id="FEM3.hu" tvg-name="FEM3 (TV2 Klub)" tvg-logo="https://i.imgur.com/AF4Sz8Z.png" group-title="HUNGARY",FEM3 (TV2 Klub)
 http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fix TV" tvg-logo="https://onlinestream.live/logos/1833.png" group-title="HUNGARY",Fix TV Ⓨ
-https://www.youtube.com/@fixhdtv/live
 #EXTINF:-1 tvg-id="GyongyosiTV.hu" tvg-name="Gyöngyös TV" tvg-logo="https://i.imgur.com/RHgaPCk.png" group-title="HUNGARY",Gyöngyös TV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hegyvidék TV (Buda TV)" tvg-logo="https://hegyvidektv.hu/wp-content/uploads/2025/05/BUDATV_logo_picon.png" group-title="HUNGARY",Hegyvidék TV (Buda TV)
 http://budatv.streaming.aiproduction.hu/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Héviz TV" tvg-logo="" group-title="HUNGARY",Héviz TV
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="IzauraTV.hu" tvg-name="Izaura TV" tvg-logo="https://onlinestream.live/logos/6141.png" group-title="HUNGARY",Izaura TV
+#EXTINF:-1 tvg-id="IzauraTV.hu" tvg-name="Izaura TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/250px-Izaura_TV_logo.svg.png" group-title="HUNGARY",Izaura TV
 http://88.212.15.19/live/izaura/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jászsági Térségi TV" tvg-logo="" group-title="HUNGARY",Jászsági Térségi TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
