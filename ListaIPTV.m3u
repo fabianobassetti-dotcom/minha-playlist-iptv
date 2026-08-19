@@ -293,7 +293,7 @@ https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="BobEsponjaCalcaQuadrada.us@BR" tvg-name="Bob Esponja Calça Quadrada (720p)" tvg-logo="" group-title="BRAZIL",Bob Esponja Calça Quadrada (720p)
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
-#EXTINF:-1 tvg-id="696997049889f8db34c936c2" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://images.pluto.tv/channels/696997049889f8db34c936c2/colorLogoPNG_1771029425876.png" group-title="BRAZIL",Boruto: Naruto Next Generations
+#EXTINF:-1 tvg-id="656f37f257fe4a000884dfee" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" group-title="BRAZIL",Boruto: Naruto Next Generations
 https://jmp2.uk/plu-656f389c3944b60008e5bdab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Box Kids TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Box Kids TV
 https://45.190.28.50/BOX_KIDS_HD/index.m3u8
@@ -485,7 +485,7 @@ http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-id="ConexaoTV.br@SD" tvg-name="Conexão TV (720p)" tvg-logo="" group-title="BRAZIL",Conexão TV (720p)
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="62f54c11b3af68000702c304" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/62f54c11b3af68000702c304/colorLogoPNG_1731837343443.png" group-title="BRAZIL",CSI: Miami
+#EXTINF:-1 tvg-id="63eb9255c111bc0008fe6ec4" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="BRAZIL",CSI: Miami
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cultura do Pará | Brasil" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="BRAZIL",Cultura do Pará | Brasil
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
@@ -729,7 +729,7 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maceio (AL)" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Maceio (AL)
 https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
-#EXTINF:-1 tvg-id="654a59742c1d33000865a797" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="BRAZIL",MacGyver
+#EXTINF:-1 tvg-id="63eb95baa99571000898a078" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="BRAZIL",MacGyver
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1 tvg-id="681111be5e0764e297fb200e" tvg-name="Mais MasterChef Brasil" tvg-logo="https://images.pluto.tv/channels/681111be5e0764e297fb200e/colorLogoPNG_1749582970597.png" group-title="BRAZIL",Mais MasterChef Brasil
 https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
@@ -807,7 +807,7 @@ https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 https://jmp2.uk/plu-64c92f965580090008084968.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca@SD" tvg-name="NatureTime (720p)" tvg-logo="" group-title="BRAZIL",NatureTime (720p)
 https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
-#EXTINF:-1 tvg-id="6319ec31c62c3f00075c90b1" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png" group-title="BRAZIL",NCIS
+#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="BRAZIL",NCIS
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NGT SP" tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="BRAZIL",NGT SP
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
@@ -877,7 +877,7 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ON FM TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",ON FM TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png" group-title="BRAZIL",One Piece
+#EXTINF:-1 tvg-id="5ff4b9ccf938f8000779eb99" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="BRAZIL",One Piece
 https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oportunidades TV | full HD" tvg-logo="https://i.imgur.com/iGKvaRc.png" group-title="BRAZIL",Oportunidades TV | full HD
 http://maistop.net:80/live/meutedio/meutedio/1.m3u8
@@ -917,7 +917,7 @@ https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
 #EXTINF:-1 tvg-id="6474aa984cfc2c0008883a92" tvg-name="Pluto TV Animais" tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="BRAZIL",Pluto TV Animais
 https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
-#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png" group-title="BRAZIL",Pluto TV Anime
+#EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG_1785346475723.png" group-title="BRAZIL",Pluto TV Anime
 https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
 #EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-name="Pluto TV Anime Ação" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="BRAZIL",Pluto TV Anime Ação
 https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
@@ -965,7 +965,7 @@ https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
 #EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-name="Pluto TV Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="BRAZIL",Pluto TV Investigação
 https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
-#EXTINF:-1 tvg-id="5f8ecb336537e8000764a17f" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG_1748328452590.png" group-title="BRAZIL",Pluto TV Junior
+#EXTINF:-1 tvg-id="5dcde2ac4bc6c500094ab45b" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="BRAZIL",Pluto TV Junior
 https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us@BR" tvg-name="Pluto TV Karaokê por Stingray (720p)" tvg-logo="" group-title="BRAZIL",Pluto TV Karaokê por Stingray (720p)
 https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
@@ -987,7 +987,7 @@ https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
 https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
 #EXTINF:-1 tvg-id="663b9de4f999220008230fa8" tvg-name="Pluto TV Netmovies" tvg-logo="https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png" group-title="BRAZIL",Pluto TV Netmovies
 https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
-#EXTINF:-1 tvg-id="5cf96c0222df39f1a338d163" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png" group-title="BRAZIL",Pluto TV Novelas
+#EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG_1785345528364.png" group-title="BRAZIL",Pluto TV Novelas
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPaisagensporStingray.us@BR" tvg-name="Pluto TV Paisagens por Stingray (720p)" tvg-logo="" group-title="BRAZIL",Pluto TV Paisagens por Stingray (720p)
 https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
@@ -999,7 +999,7 @@ https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
 https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVShowsporStingray.us@BR" tvg-name="Pluto TV Shows por Stingray (720p)" tvg-logo="" group-title="BRAZIL",Pluto TV Shows por Stingray (720p)
 https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
-#EXTINF:-1 tvg-id="61c1979dfa307000070bbe4d" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/61c1979dfa307000070bbe4d/colorLogoPNG.png" group-title="BRAZIL",Pluto TV Star Trek
+#EXTINF:-1 tvg-id="5ec5761aabe4690007f6e047" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG_1753988442904.png" group-title="BRAZIL",Pluto TV Star Trek
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
 #EXTINF:-1 tvg-id="6474ab1da51cb80008bfb5f4" tvg-name="Pluto TV Séries Ação" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="BRAZIL",Pluto TV Séries Ação
 https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
@@ -3503,7 +3503,7 @@ https://cdn19.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-playerstv-samsungtv-uk/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f" tvg-name="Poker Night TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e081c886-d798-4438-855b-2f1fb10c50ee/poker-night-tv.png" group-title="ESPORTES EM INGLÊS",Poker Night | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1353
-#EXTINF:-1 tvg-id="660d714719ca71000849cc1f" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/660d714719ca71000849cc1f/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS",RealMadrid TV
+#EXTINF:-1 tvg-id="67a3b45a21af380008133aa4" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/67a3b45a21af380008133aa4/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS",RealMadrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="RealMadrid TV 2" tvg-logo="http://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS",RealMadrid TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1741
@@ -8483,19 +8483,19 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d5
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="GBAK3504503A" tvg-name="Pluto TV Action" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504503A_20250107T022859SQUARE.png" group-title="VOD MOVIES (EN)",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-name="Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG_1731836724642.png" group-title="VOD MOVIES (EN)",Pluto TV Comedy
+#EXTINF:-1 tvg-id="62e92178946c8000079a3160" tvg-name="Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png" group-title="VOD MOVIES (EN)",Pluto TV Comedy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="5f4d8594eb979c0007706de7" tvg-name="Pluto TV Crime Movies" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="VOD MOVIES (EN)",Pluto TV Crime Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="5c665db3e6c01b72c4977bc2" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="VOD MOVIES (EN)",Pluto TV Cult Films
+#EXTINF:-1 tvg-id="5c5c31f2f21b553c1f673fb0" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png" group-title="VOD MOVIES (EN)",Pluto TV Cult Films
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Documentaries" tvg-logo="https://i.imgur.com/Mr4ZsNZ.png" group-title="VOD MOVIES (EN)",Pluto TV Documentaries
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="5b4e92e4694c027be6ecece1" tvg-name="Pluto TV Drama" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" group-title="VOD MOVIES (EN)",Pluto TV Drama
+#EXTINF:-1 tvg-id="5ddf91149880d60009d35d27" tvg-name="Pluto TV Drama" tvg-logo="https://images.pluto.tv/channels/5ddf91149880d60009d35d27/colorLogoPNG_1764596004853.png" group-title="VOD MOVIES (EN)",Pluto TV Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="USBA300017PK" tvg-name="Pluto TV Fantastic" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20260421T133550SQUARE.png" group-title="VOD MOVIES (EN)",Pluto TV Fantastic
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="569546031a619b8f07ce6e25" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="VOD MOVIES (EN)",Pluto TV Horror
+#EXTINF:-1 tvg-id="63a1c9790cc44a0007dc8857" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png" group-title="VOD MOVIES (EN)",Pluto TV Horror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="GBAK3504522A" tvg-name="Pluto TV Romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504522A_20250107T022653SQUARE.png" group-title="VOD MOVIES (EN)",Pluto TV Romance
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -8505,7 +8505,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37a
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=90&deviceId=5f4d863b98b41000076cd061&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="5c6dc88fcd232425a6e0f06e" tvg-name="Pluto TV Terror" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="VOD MOVIES (EN)",Pluto TV Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="5b4e69e08291147bd04a9fd7" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="VOD MOVIES (EN)",Pluto TV Thrillers
+#EXTINF:-1 tvg-id="5f1ac8a87cd38d000745d7cf" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="VOD MOVIES (EN)",Pluto TV Thrillers
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="USBA300005MK" tvg-name="Pluto TV Westerns" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300005MK_20260421T133553SQUARE.png" group-title="VOD MOVIES (EN)",Pluto TV Westerns
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
