@@ -2561,10 +2561,6 @@ http://74.91.26.218:82/live/cctv4hd.m3u8
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 中文国际（美）" tvg-logo="https://i.imgur.com/1TPiRqR.png" group-title="CHINA",CCTV-4 中文国际（美） Ⓢ
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="CCTV-5 体育" tvg-logo="https://i.imgur.com/Mut2omN.png" group-title="CHINA",CCTV-5 体育
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://i.imgur.com/UNjmQVS.png" group-title="CHINA",CCTV-5+ 体育赛事
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6 电影" tvg-logo="https://i.imgur.com/SsPN5I3.png" group-title="CHINA",CCTV-6 电影
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CCTV-7 国防军事" tvg-logo="https://i.imgur.com/GhXlUpM.png" group-title="CHINA",CCTV-7 国防军事
@@ -2573,14 +2569,6 @@ http://74.91.26.218:82/live/cctv7hd.m3u8
 http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CCTV-9 纪录" tvg-logo="https://i.imgur.com/Ruyzhu5.png" group-title="CHINA",CCTV-9 纪录
 http://74.91.26.218:82/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="CETV1.cn" tvg-name="CETV-1" tvg-logo="https://i.imgur.com/AMcIAOV.png" group-title="CHINA",CETV-1
-http://txycsbl.centv.cn/zb/0628cetv1.m3u8
-#EXTINF:-1 tvg-id="CETV2.cn" tvg-name="CETV-2" tvg-logo="https://i.imgur.com/a9mvoeP.png" group-title="CHINA",CETV-2
-http://txycsbl.centv.cn/zb/0822cetv2.m3u8
-#EXTINF:-1 tvg-id="CETV3.cn" tvg-name="CETV-3" tvg-logo="https://i.imgur.com/t8o5ZKt.png" group-title="CHINA",CETV-3
-http://txycsbl.centv.cn/zb/0822cetv3.m3u8
-#EXTINF:-1 tvg-id="CETV4.cn" tvg-name="CETV-4" tvg-logo="https://i.imgur.com/BRe0ybV.png" group-title="CHINA",CETV-4
-http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 #EXTINF:-1 tvg-id="FZTV1.cn" tvg-name="FZTV-1 News 新闻综合频道" tvg-logo="https://i.imgur.com/QvBxGw3.png" group-title="CHINA",FZTV-1 News 新闻综合频道
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-id="FZTV3.cn" tvg-name="FZTV-3 Lifestyle Channel 生活频道" tvg-logo="https://i.imgur.com/jt7CWDT.png" group-title="CHINA",FZTV-3 Lifestyle Channel 生活频道
@@ -4077,8 +4065,6 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1" tvg-logo="https://i.imgur.com/xDdVa9U.png" group-title="GREECE",ANT1
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
-#EXTINF:-1 tvg-id="arttv.gr" tvg-name="ART" tvg-logo="https://i.imgur.com/7TyUxLj.png" group-title="GREECE",ART
-https://rumble.com/live-hls-dvr/73h8c2/playlist.m3u8
 #EXTINF:-1 tvg-id="arttv.gr" tvg-name="ART TV" tvg-logo="https://i.imgur.com/LyCqQvx.png" group-title="GREECE",ART TV
 https://rtmp.win:3696/live/arttvgrlive.m3u8
 #EXTINF:-1 tvg-id="astratv.gr" tvg-name="Astra" tvg-logo="https://i.imgur.com/oYRPfZm.png" group-title="GREECE",Astra
@@ -4109,10 +4095,12 @@ https://ert-live.siliconweb.com/bpk-tv/ERT1/default/index.mpd
 https://ert-live.siliconweb.com/bpk-tv/ERT2/default/index.mpd
 #EXTINF:-1 tvg-id="ERT3.gr" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/KyhzDRm.png" group-title="GREECE",ERT 3 Ⓖ
 https://ert-live.siliconweb.com/bpk-tv/ERT3/default/index.mpd
+#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-name="ERT Cosmos" tvg-logo="https://i.imgur.com/KsMTWYw.png" group-title="GREECE",ERT Cosmos
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.mpd
 #EXTINF:-1 tvg-id="ERTKids.gr" tvg-name="ERT Kids" tvg-logo="https://i.imgur.com/XkSR66q.png" group-title="GREECE",ERT Kids Ⓖ
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd
 #EXTINF:-1 tvg-id="ERTNews.gr" tvg-name="ERT News" tvg-logo="https://i.imgur.com/saIGLvr.png" group-title="GREECE",ERT News
-https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/index.mpd
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd
 #EXTINF:-1 tvg-id="ERTSports1.gr" tvg-name="ERT Sports 1" tvg-logo="https://i.imgur.com/gebWmAB.png" group-title="GREECE",ERT Sports 1
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.mpd
 #EXTINF:-1 tvg-id="ERTSports2.gr" tvg-name="ERT Sports 2" tvg-logo="https://i.imgur.com/gebWmAB.png" group-title="GREECE",ERT Sports 2
@@ -4121,8 +4109,6 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.mpd
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.mpd
 #EXTINF:-1 tvg-id="ERTSports4.gr" tvg-name="ERT Sports 4" tvg-logo="https://i.imgur.com/gebWmAB.png" group-title="GREECE",ERT Sports 4
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports4/default/index.mpd
-#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-name="ERT World" tvg-logo="https://i.imgur.com/KsMTWYw.png" group-title="GREECE",ERT World
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd
 #EXTINF:-1 tvg-id="eurotv.gr" tvg-name="Euro" tvg-logo="https://i.imgur.com/mHCk05E.png" group-title="GREECE",Euro
 https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGreek.fr" tvg-name="Euronews Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/500px-Euronews_2016_logo.svg.png" group-title="GREECE",Euronews Greek
@@ -4179,8 +4165,6 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="SyrosTV1.gr" tvg-name="Syros TV1" tvg-logo="https://i.imgur.com/duXHyvN.png" group-title="GREECE",Syros TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleKriti.gr" tvg-name="TeleKriti" tvg-logo="https://i.imgur.com/18ZYiyi.png" group-title="GREECE",TeleKriti
-https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1 tvg-id="thessaliatv.gr" tvg-name="Thessalia" tvg-logo="https://i.imgur.com/KXz67LY.png" group-title="GREECE",Thessalia
 https://www.youtube.com/c/thessaliatv1/live
 #EXTINF:-1 tvg-id="ThrakiNetTV.gr" tvg-name="Thraki Net TV" tvg-logo="https://i.imgur.com/DV0I0ed.png" group-title="GREECE",Thraki Net TV
@@ -4193,8 +4177,6 @@ https://panel.gwebstream.eu:19360/tv100skg/tv100skg.m3u8
 https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 tvg-id="VouliTV.gr" tvg-name="Vouli TV" tvg-logo="https://i.imgur.com/1vqW7lc.png" group-title="GREECE",Vouli TV
 https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ERTWorld1.gr" tvg-name="Η Φωνή της Ελλάδας" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/5/58/VoiceOfGreece.svg/500px-VoiceOfGreece.svg.png" group-title="GREECE",Η Φωνή της Ελλάδας
-https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd
 #EXTINF:-1 tvg-id="KNR1.gl" tvg-name="KNR1 Ⓨ" tvg-logo="https://i.imgur.com/8Pf5SJb.png" group-title="GREENLAND",KNR1 Ⓨ Ⓖ
 https://www.youtube.com/@KNRgreenland/live
 #EXTINF:-1 tvg-id="KNR2.gl" tvg-name="KNR2" tvg-logo="https://i.imgur.com/8Pf5SJb.png" group-title="GREENLAND",KNR2 Ⓨ
@@ -8533,12 +8515,16 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8
 #EXTINF:-1 tvg-id="FOX.jp" tvg-name="Dlife" tvg-logo="https://i.imgur.com/6gJZHPv.png" group-title="日本 / JAPAN",Dlife
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="rch_108" tvg-name="FNNプライムオンライン" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png" group-title="日本 / JAPAN",FNNプライムオンライン
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-id="GAORASPORTS.jp" tvg-name="GAORA" tvg-logo="https://i.imgur.com/Myh0PWD.png" group-title="日本 / JAPAN",GAORA
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="GSTV.jp" tvg-name="GSTV" tvg-logo="https://i.imgur.com/ECnVG5I.png" group-title="日本 / JAPAN",GSTV
 https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
 #EXTINF:-1 tvg-id="LaLaTV.jp" tvg-name="LaLa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png" group-title="日本 / JAPAN",LaLa TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="rch_115" tvg-name="MBSニュース" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png" group-title="日本 / JAPAN",MBSニュース
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-id="MnetJapan.jp" tvg-name="Mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png" group-title="日本 / JAPAN",Mnet
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="MUSICONTV.jp" tvg-name="Music ON TV!（エムオン）" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="日本 / JAPAN",Music ON TV!（エムオン）
@@ -8587,6 +8573,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="IgoShogiChannel.jp" tvg-name="囲碁・将棋チャンネル" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/igoshogi.png" group-title="日本 / JAPAN",囲碁・将棋チャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="rch_47" tvg-name="日テレNEWS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="日本 / JAPAN",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVNEWS24.jp" tvg-name="日テレNEWS24" tvg-logo="https://i.imgur.com/jtSYegn.png" group-title="日本 / JAPAN",日テレNEWS24
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="NitteleGPlus.jp" tvg-name="日テレジータス" tvg-logo="https://i.imgur.com/xq1VG0E.png" group-title="日本 / JAPAN",日テレジータス
