@@ -2437,11 +2437,11 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1503
 #EXTINF:-1 tvg-id="USAJ2200012RN" tvg-name="PursuitUP | EUA" tvg-logo="http://images.pluto.tv/channels/5d486bed428fe37d8cadba45/colorLogoPNG.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",PursuitUP | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1165
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-name="Wired2Fish" tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",Wired2Fish TV | Distro
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-name="Wired2Fish TV | Distro" tvg-logo="https://i.imgur.com/Nsb8a51.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",Wired2Fish TV | Distro
 https://dai.google.com/linear/hls/event/YvQxyCZaT9yhN-LCy5twQA/master.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-name="Wired2Fish" tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",Wired2Fish TV | Plex 2
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-name="Wired2Fish TV | Plex 2" tvg-logo="https://i.imgur.com/Nsb8a51.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",Wired2Fish TV | Plex 2
 https://e5e136053ead4bb88b80fc7a901a4ac0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-PLEX/mt/plex/80/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-name="Wired2Fish" tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",Wired2Fish TV | SportsTribal
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-name="Wired2Fish TV | SportsTribal" tvg-logo="https://i.imgur.com/Nsb8a51.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",Wired2Fish TV | SportsTribal
 https://linear-80.frequency.stream/dist/sportstribaltv/80/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875" tvg-name="Axs TV Now | EUA" tvg-logo="https://i.imgur.com/Sa39Z1b.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Axs TV Now | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=780
@@ -2649,7 +2649,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://ammo-espanol-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15" tvg-name="Runtime Español | Plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-espanol.png" group-title="CINEMA EM ESPANHOL",Runtime Español | Plex
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" tvg-name="FreeTV Acción" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8b31c27f-b26e-475d-bec6-a7d452260f56/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png" group-title="CINEMA EM ESPANHOL",Top Cine
+#EXTINF:-1 tvg-id="dtv_EPGTop Cine" tvg-name="Top Cine" tvg-logo="" group-title="CINEMA EM ESPANHOL",Top Cine
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGTu Cine" tvg-name="Tu Cine" tvg-logo="" group-title="CINEMA EM ESPANHOL",Tu Cine
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
@@ -3235,7 +3235,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1304
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=560
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-name="Go Traveler 4" tvg-logo="https://i.imgur.com/pzDE0qH.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Go Traveler 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=689
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c" tvg-name="Journy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png" group-title="DOCUMENTÁRIOS EM INGLÊS",GoUSA TV
+#EXTINF:-1 tvg-id="INBA5100025YE" tvg-name="GoUSA TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100025YE_20260623T012246SQUARE.png" group-title="DOCUMENTÁRIOS EM INGLÊS",GoUSA TV
 https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Guinness World Records" tvg-logo="https://i.imgur.com/ZPA2yTM.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Guinness World Records
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=567
@@ -4473,21 +4473,21 @@ https://585fa7e373ba4b388f04a5f9f655cb0c.mediatailor.us-east-1.amazonaws.com/v1/
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
 #EXTINF:-1 tvg-id="ESAJ4500026J3" tvg-name="Planeta Junior | Espanha" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/ESAJ4500026J3_20201208T050259.png" group-title="INFANTIS EM ESPANHOL",Planeta Junior | Espanha
 https://8886309569b64a2780383bc1511fe3d5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PlanetaKidz/playlist.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Goggles en Español 2
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español 2" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Goggles en Español 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=533
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Goggles en Español 3
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español 3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Goggles en Español 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=961
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Googles en Español" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 4
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Googles en Español 4" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 5
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Googles en Español 5" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=658
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 6
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Googles en Español 6" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=663
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 7
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Googles en Español 7" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1746
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 8
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Googles en Español 8" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1297
 #EXTINF:-1 tvg-id="" tvg-name="ToonzKids Niños" tvg-logo="https://i.imgur.com/SkVuUTs.png" group-title="INFANTIS EM ESPANHOL",ToonzKids Niños
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
