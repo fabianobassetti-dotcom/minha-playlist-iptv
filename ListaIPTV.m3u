@@ -3251,7 +3251,7 @@ https://spartantv-lg.amagi.tv/playlist.m3u8
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="Sports Tonight | Reino Unido" tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="ESPORTES EM INGLÊS",Sports Tonight | Reino Unido
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41" tvg-name="Surf Now TV | Plex EUA" tvg-logo="https://i.imgur.com/ECKvVLA.png" group-title="ESPORTES EM INGLÊS",Surf Now TV | Plex EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png" group-title="ESPORTES EM INGLÊS",Surf Now TV | Plex EUA
 https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/11100072-01d6-4819-ba9a-a99ad479a5c7/3.m3u8
 #EXTINF:-1 tvg-id="USBB10000058A" tvg-name="SURFER TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000058A_20250826T234505SQUARE.png" group-title="ESPORTES EM INGLÊS",Surf Now TV | Samsung EUA
 https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8
