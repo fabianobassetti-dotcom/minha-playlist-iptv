@@ -1862,9 +1862,9 @@ https://www.twitch.tv/topnewsal
 #EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="ALBANIA",Tropoja
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="ALBANIA",TV 7 Albania
-https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
+https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
 #EXTINF:-1 tvg-id="TVApollon.al" tvg-name="TV Apollon" tvg-logo="https://i.imgur.com/gUz2AjM.png" group-title="ALBANIA",TV Apollon Ⓢ
-https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
 #EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/500px-Vizion_Plus.svg.png" group-title="ALBANIA",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" group-title="ANDORRA",Andorra TV
@@ -1909,8 +1909,8 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://www.youtube.com/user/CanalPakapaka/live
 #EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" group-title="ARGENTINA",Tec TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://i.imgur.com/wrZfMXn.png" group-title="ARGENTINA",Telefe Ⓨ
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://i.imgur.com/wrZfMXn.png" group-title="ARGENTINA",Telefe
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="ARGENTINA",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="Televisión Pública" tvg-logo="https://i.imgur.com/4hYYpiu.png" group-title="ARGENTINA",Televisión Pública Ⓨ
@@ -2833,6 +2833,8 @@ https://linear-274.frequency.stream/274/hls/master/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1149
 #EXTINF:-1 tvg-id="AdaTV.cy" tvg-name="Ada TV" tvg-logo="https://i.imgur.com/LPQfdz2.png" group-title="CYPRUS",Ada TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KibrisTV.cy" tvg-name="Kibris TV" tvg-logo="https://i.imgur.com/5MJZPTo.png" group-title="CYPRUS",Kibris TV
+https://old.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-id="RIK1.cy" tvg-name="RIK 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/500px-Logo_RIK_1_2017.svg.png" group-title="CYPRUS",RIK 1 Ⓢ
 http://213.7.216.229:8888/udp/239.23.0.1:1234
 #EXTINF:-1 tvg-id="RIK2.cy" tvg-name="RIK 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_RIK_2_2017.svg/500px-Logo_RIK_2_2017.svg.png" group-title="CYPRUS",RIK 2 Ⓢ
@@ -2841,6 +2843,8 @@ http://213.7.216.229:8888/udp/239.23.0.2:1234
 http://213.7.216.229:8888/udp/239.23.0.5:1234
 #EXTINF:-1 tvg-id="RIKSat.cy" tvg-name="RIK Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/500px-Logo_RIK_Sat_2017.svg.png" group-title="CYPRUS",RIK Sat
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2020.cy" tvg-name="TV 2020" tvg-logo="https://i.imgur.com/rtfsNdd.png" group-title="CYPRUS",TV 2020 Ⓨ
+https://www.youtube.com/@TV2020KIBRIS/live
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-name="CNN Prima News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png" group-title="CZECH REPUBLIC",CNN Prima News
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews
 #EXTINF:-1 tvg-id="CSFilm.cz" tvg-name="CS Film" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/cs-film-sk.png" group-title="CZECH REPUBLIC",CS Film
@@ -5443,8 +5447,8 @@ https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
 https://www.standardmedia.co.ke/ktnhome/live
 #EXTINF:-1 tvg-id="KTNNews.ke" tvg-name="KTN NEWS TV" tvg-logo="https://i.imgur.com/7yzunBK.png" group-title="KENYA",KTN NEWS TV
 https://www.standardmedia.co.ke/ktnnews/live
-#EXTINF:-1 tvg-id="NTV.ke" tvg-name="NTV Kenya" tvg-logo="https://i.imgur.com/OpoLjfv" group-title="KENYA",NTV Kenya
-https://nation.africa/kenya/tv/live
+#EXTINF:-1 tvg-id="NTV.ke" tvg-name="NTV Kenya" tvg-logo="https://i.imgur.com/OpoLjfv" group-title="KENYA",NTV Kenya Ⓨ
+https://www.youtube.com/c/NTVKenyaOnline/live
 #EXTINF:-1 tvg-id="AlltheKPop.kr" tvg-name="All the K-Pop" tvg-logo="https://i.imgur.com/tBbTTAx.png" group-title="KOREA",All the K-Pop Ⓨ
 https://www.youtube.com/c/ALLTHEKPOP/live
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="KOREA",Arirang
@@ -5917,8 +5921,6 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="JoyNews.gh" tvg-name="Joy News" tvg-logo="https://i.imgur.com/kGuMNmR.png" group-title="NEWS",Joy News Ⓨ
 https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw/live
-#EXTINF:-1 tvg-id="USBA300024TN" tvg-name="LiveNOW from FOX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20260707T035825SQUARE.png" group-title="NEWS",LiveNOW from FOX
-https://lnc-fox-live-now.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-name="Metro Globe Network" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="NEWS",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20260421T133829SQUARE.png" group-title="NEWS",NBC News NOW
@@ -6660,7 +6662,7 @@ https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="SERBIA",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3" tvg-logo="https://i.imgur.com/gxuGB4J.png" group-title="SERBIA",RTS 3
-http://185.81.240.65:15000/udp/233.233.233.36:12000
+https://webtvstream.bhtelecom.ba/rts_sat.m3u8
 #EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="RTS Svet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rts-svet.png" group-title="SERBIA",RTS Svet
 https://webtvstream.bhtelecom.ba/rts_svet.m3u8
 #EXTINF:-1 tvg-id="MarkizaDajto.sk" tvg-name="Dajto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-dajto-sk.png" group-title="SLOVAKIA",Dajto
